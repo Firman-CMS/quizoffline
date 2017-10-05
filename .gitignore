@@ -28,3 +28,13 @@ phpunit.phar
 
 tests/_output/*
 tests/_support/_generated
+
+/config/db.php
+/config/db.php
+
+index.php
+
+web/.htaccess
+web/index.php
+
+.htaccess
